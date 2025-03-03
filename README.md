@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j0shwashere
+- 👋 Hi, I’m josh
 - 👀 I’m interested in Cyber Security and Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing at the moment
